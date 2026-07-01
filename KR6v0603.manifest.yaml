@@ -1,0 +1,420 @@
+canonical_identifier: bkk:krp/KR6v0603/v1
+canonical_location: https://kanripo.org/bkk/KR6v0603/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 華雨集（二）
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/Y/Y26/Y26n0026.xml
+    old_id: Y26n0026
+  edition:
+    short: bkk
+editions:
+- short: 印順
+  label: 印順
+  source_xml_id: wit.orig
+- short: 'Y'
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0603_001.yaml, hash: 'sha256:ddece76ab1c29f0a1cf5d9f8f697848627656cfb4ff17c03a0690d1f5f17b52e'}
+  - {seq: 2, filename: KR6v0603_002.yaml, hash: 'sha256:8271cacbe2c41136c85d9d83d8987e0cef72c3a4939a1394cbb8b738adecd8f5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0603_001.markers.yaml, hash: 'sha256:3beaa29051bad2e0258ce952767d4f01940e38c8024f3f16ecc42c2a48c51f0a'}
+  - {seq: 2, role: markers, filename: assets/KR6v0603_002.markers.yaml, hash: 'sha256:04c381495a099112bcd2f9c67f02becfd8f160cf1e5349cc324ff790651985ed'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-juan-start
+    span:
+    - body
+    - 0
+    - 24516
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 方便之道——緒言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-2
+    span:
+    - body
+    - 3182
+    - 3182
+  label: 方便之道——上編　「佛法」
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-3
+    span:
+    - body
+    - 3186
+    - 3186
+  label: 第一章　中道正法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-4
+    span:
+    - body
+    - 3193
+    - 3193
+  label: 第一節　佛法甚深
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-5
+    span:
+    - body
+    - 4852
+    - 4852
+  label: 第二節　如實的解脫道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-6
+    span:
+    - body
+    - 8864
+    - 8864
+  label: 第三節　人間的正行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-7
+    span:
+    - body
+    - 10172
+    - 10172
+  label: 第二章　方便道之施設
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-8
+    span:
+    - body
+    - 10181
+    - 10181
+  label: 第一節　四不壞淨（四證淨）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-9
+    span:
+    - body
+    - 12155
+    - 12155
+  label: 第二節　六念法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-10
+    span:
+    - body
+    - 14033
+    - 14033
+  label: 第三章　方便道之發展趨向
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-11
+    span:
+    - body
+    - 14044
+    - 14044
+  label: 第一節　六念法門的演化
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0603_Y_001-mulu-12
+    span:
+    - body
+    - 21414
+    - 21414
+  label: 第二節　通俗化與神化
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-juan-start
+    span:
+    - body
+    - 0
+    - 65692
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 方便之道——中編　「大乘佛法」
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-2
+    span:
+    - body
+    - 6
+    - 6
+  label: 第一章　泛論普及而又深入的大乘
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-3
+    span:
+    - body
+    - 20
+    - 20
+  label: 第一節　崇高的佛陀與菩薩僧
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-4
+    span:
+    - body
+    - 1894
+    - 1894
+  label: 第二節　佛、菩薩、天的融和
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-5
+    span:
+    - body
+    - 4096
+    - 4096
+  label: 第三節　造像與寫經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-6
+    span:
+    - body
+    - 5145
+    - 5145
+  label: 第二章　大乘「念法」法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-7
+    span:
+    - body
+    - 5154
+    - 5154
+  label: 第一節　十法行
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-8
+    span:
+    - body
+    - 7041
+    - 7041
+  label: 第二節　書寫、供養與讀、誦功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-9
+    span:
+    - body
+    - 10236
+    - 10236
+  label: 第三章　大乘「念佛」法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-10
+    span:
+    - body
+    - 10245
+    - 10245
+  label: 第一節　信方便的易行道
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-11
+    span:
+    - body
+    - 14745
+    - 14745
+  label: 第二節　易行道支略說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-12
+    span:
+    - body
+    - 18807
+    - 18807
+  label: 第四章　懺悔業障
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-13
+    span:
+    - body
+    - 18814
+    - 18814
+  label: 第一節　「佛法」的懺悔說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-14
+    span:
+    - body
+    - 22613
+    - 22613
+  label: 第二節　「大乘佛法」的懺悔說
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-15
+    span:
+    - body
+    - 29005
+    - 29005
+  label: 第三節　稱名念佛除業障
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-16
+    span:
+    - body
+    - 33274
+    - 33274
+  label: 第五章　往生極樂淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-17
+    span:
+    - body
+    - 33283
+    - 33283
+  label: 第一節　彌陀淨土與三輩往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-18
+    span:
+    - body
+    - 36810
+    - 36810
+  label: 第二節　往生淨土的抉擇
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-19
+    span:
+    - body
+    - 40321
+    - 40321
+  label: 第六章　念佛（及菩薩）三昧
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-20
+    span:
+    - body
+    - 40331
+    - 40331
+  label: 第一節　通三乘的念佛觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-21
+    span:
+    - body
+    - 46059
+    - 46059
+  label: 第二節　大乘的念佛三昧
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-22
+    span:
+    - body
+    - 51330
+    - 51330
+  label: 第三節　念佛菩薩的觀法
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-23
+    span:
+    - body
+    - 54319
+    - 54319
+  label: 第七章　護持佛法與利樂眾生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-24
+    span:
+    - body
+    - 54331
+    - 54331
+  label: 第一節　人間的現世利益
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6v0603_Y_002-mulu-25
+    span:
+    - body
+    - 58209
+    - 58209
+  label: 第二節　從人護法到龍天護法
+  type: mulu
+  level: 1
+hash: sha256:331b92b5ff842694106d48905abfd924cd5e20eef158287cf3a6acfcd9d9954b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
