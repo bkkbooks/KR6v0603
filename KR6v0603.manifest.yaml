@@ -18,11 +18,11 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 1, filename: KR6v0603_001.yaml, hash: 'sha256:ddece76ab1c29f0a1cf5d9f8f697848627656cfb4ff17c03a0690d1f5f17b52e'}
-  - {seq: 2, filename: KR6v0603_002.yaml, hash: 'sha256:8271cacbe2c41136c85d9d83d8987e0cef72c3a4939a1394cbb8b738adecd8f5'}
+  - {seq: 1, filename: KR6v0603_001.yaml, hash: 'sha256:35db5b62085ab45a45fd239f7c89b915de19a90dc30794e3437e88a1f776f205'}
+  - {seq: 2, filename: KR6v0603_002.yaml, hash: 'sha256:8e53ce4d0e1315ff767f14151f4e76a13f16984e2bb5fb45c9f91f0a2f421284'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0603_001.markers.yaml, hash: 'sha256:3beaa29051bad2e0258ce952767d4f01940e38c8024f3f16ecc42c2a48c51f0a'}
-  - {seq: 2, role: markers, filename: assets/KR6v0603_002.markers.yaml, hash: 'sha256:04c381495a099112bcd2f9c67f02becfd8f160cf1e5349cc324ff790651985ed'}
+  - {seq: 1, role: markers, filename: assets/KR6v0603_001.markers.yaml, hash: 'sha256:86cb3c52299d9673e421efd9f7b274cc56a8dd46df411e37d01b855c51cbdad3'}
+  - {seq: 2, role: markers, filename: assets/KR6v0603_002.markers.yaml, hash: 'sha256:9d6fbe8382c777309deed3ceae52fcf7b9ac5cf858cc6675d5f564b27736ac23'}
 table_of_contents:
 - ref:
     seq: 1
@@ -414,7 +414,4 @@ table_of_contents:
   label: 第二節　從人護法到龍天護法
   type: mulu
   level: 1
-hash: sha256:331b92b5ff842694106d48905abfd924cd5e20eef158287cf3a6acfcd9d9954b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0b1bf59f0e8b0979cd1341fa139e25198df77282f04d80f4eede6641437084e6
