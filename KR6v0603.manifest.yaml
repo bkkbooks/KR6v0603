@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0603/v1
 canonical_location: https://kanripo.org/bkk/KR6v0603/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 華雨集（二）
   source:
@@ -18,11 +18,11 @@ editions:
 - short: 'Y'
 assets:
   parts:
-  - {seq: 1, filename: KR6v0603_001.yaml, hash: 'sha256:35db5b62085ab45a45fd239f7c89b915de19a90dc30794e3437e88a1f776f205'}
-  - {seq: 2, filename: KR6v0603_002.yaml, hash: 'sha256:8e53ce4d0e1315ff767f14151f4e76a13f16984e2bb5fb45c9f91f0a2f421284'}
+  - {seq: 1, filename: KR6v0603_001.yaml, hash: 'sha256:656b679ec27c56e49f2612656858a614972bcbc41ecd2404b36df7e3eb4ab585'}
+  - {seq: 2, filename: KR6v0603_002.yaml, hash: 'sha256:a6393aca0be5bd0cf254789a78cc740cde29cba65b468a154e419c683191a7c8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0603_001.markers.yaml, hash: 'sha256:86cb3c52299d9673e421efd9f7b274cc56a8dd46df411e37d01b855c51cbdad3'}
-  - {seq: 2, role: markers, filename: assets/KR6v0603_002.markers.yaml, hash: 'sha256:9d6fbe8382c777309deed3ceae52fcf7b9ac5cf858cc6675d5f564b27736ac23'}
+  - {seq: 1, role: markers, filename: assets/KR6v0603_001.markers.yaml, hash: 'sha256:cca24734d0e689d4412ba4f3e4676fa2b037201b50d4aadf02ceb2087949abf5'}
+  - {seq: 2, role: markers, filename: assets/KR6v0603_002.markers.yaml, hash: 'sha256:80333d48ea79a5d55ea659a084ee81328c3f212f90761d95d3553b7b92ebb484'}
 table_of_contents:
 - ref:
     seq: 1
@@ -414,4 +414,7 @@ table_of_contents:
   label: 第二節　從人護法到龍天護法
   type: mulu
   level: 1
-hash: sha256:0b1bf59f0e8b0979cd1341fa139e25198df77282f04d80f4eede6641437084e6
+hash: sha256:cf0068187171252f7a7cf087ef14667033a01a272aa25f9e3504ed4ed2ce2a7c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
