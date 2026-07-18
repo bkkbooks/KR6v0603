@@ -21,7 +21,7 @@ assets:
   - {seq: 1, filename: KR6v0603_001.yaml, hash: 'sha256:656b679ec27c56e49f2612656858a614972bcbc41ecd2404b36df7e3eb4ab585'}
   - {seq: 2, filename: KR6v0603_002.yaml, hash: 'sha256:a6393aca0be5bd0cf254789a78cc740cde29cba65b468a154e419c683191a7c8'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0603_001.markers.yaml, hash: 'sha256:cca24734d0e689d4412ba4f3e4676fa2b037201b50d4aadf02ceb2087949abf5'}
+  - {seq: 1, role: markers, filename: assets/KR6v0603_001.markers.yaml, hash: 'sha256:f7a9ab7607d88002be28d135bc3bb0f990d170a41e4ef87c87bdfe7ff678607e'}
   - {seq: 2, role: markers, filename: assets/KR6v0603_002.markers.yaml, hash: 'sha256:80333d48ea79a5d55ea659a084ee81328c3f212f90761d95d3553b7b92ebb484'}
 table_of_contents:
 - ref:
@@ -414,7 +414,7 @@ table_of_contents:
   label: 第二節　從人護法到龍天護法
   type: mulu
   level: 1
-hash: sha256:cf0068187171252f7a7cf087ef14667033a01a272aa25f9e3504ed4ed2ce2a7c
+hash: sha256:23d3b691709245c32566a3353920dddd2c192400248fce842993420610e879c0
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

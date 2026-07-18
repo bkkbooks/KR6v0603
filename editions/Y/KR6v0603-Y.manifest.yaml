@@ -22,7 +22,7 @@ assets:
   - {seq: 1, filename: KR6v0603_001-Y.yaml, hash: 'sha256:35db5b62085ab45a45fd239f7c89b915de19a90dc30794e3437e88a1f776f205'}
   - {seq: 2, filename: KR6v0603_002-Y.yaml, hash: 'sha256:8e53ce4d0e1315ff767f14151f4e76a13f16984e2bb5fb45c9f91f0a2f421284'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0603_001-Y.markers.yaml, hash: 'sha256:cedd0d98bd6a2b1b4199c4d474fd5f351546b1ea3c5efe4d0bcf6700bc456949'}
+  - {seq: 1, role: markers, filename: assets/KR6v0603_001-Y.markers.yaml, hash: 'sha256:90704643a3013ebe787f255285e839112efe7f7f05bf6cfa91f5cac8822b438f'}
   - {seq: 2, role: markers, filename: assets/KR6v0603_002-Y.markers.yaml, hash: 'sha256:5a2d56b3da027212d86b9c9f7ab7c129e9910eccb452cd3504444e4b29e46b61'}
 table_of_contents:
 - ref:
@@ -415,4 +415,4 @@ table_of_contents:
   label: 第二節　從人護法到龍天護法
   type: mulu
   level: 1
-hash: sha256:766cd54b21c4eea605cf4b0b5d7ec4657f80857fc627b0a8c2c2f767cbe60954
+hash: sha256:96be49a8ab4154c86277133b193fb60f2888a6b13e5b1ff95c6176dbdd33ed75
